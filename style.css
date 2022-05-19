@@ -25,7 +25,7 @@ a {
 /*HEADER START*/
 
 header {
-	background: #171819 url(/assets/bg.svg) center top no-repeat;
+	background: #171819 url(./assets/bg.svg) center top no-repeat;
 	background-size: cover;
 	margin-bottom: 24px;
 }
@@ -176,15 +176,15 @@ main {
 }
 
 .pic--plan {
-	background: url(/assets/plan.svg);
+	background: url(./assets/plan.svg);
 }
 
 .pic--manage {
-	background: url(/assets/manage.svg);
+	background: url(./assets/manage.svg);
 }
 
 .pic--build {
-	background: url(/assets/build.svg);
+	background: url(./assets/build.svg);
 }
 
 .story__img__title {
@@ -296,7 +296,7 @@ main {
 	display: flex;
 	flex-direction: column;
 	padding-top: 120px;
-	background: url(/assets/feedback-bg.svg) center center no-repeat;
+	background: url(./assets/feedback-bg.svg) center center no-repeat;
 	background-color: #171819;
 	background-size: cover;
 	height: 380px;
